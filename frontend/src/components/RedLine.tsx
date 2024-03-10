@@ -1,10 +1,16 @@
 import React from 'react'
 
-const RedLine = () => {
+
+interface Props {
+
+    children: any
+}
+
+const RedLine: React.FC<Props> = ({children}) => {
 
     return (
 
-        <div className='flex flex-col bg-[#6A2918] w-[30%%]'></div>
+        <div className='flex flex-col bg-[#6A2918] w-52 h-screen'>{children}</div>
     )
 
 }
