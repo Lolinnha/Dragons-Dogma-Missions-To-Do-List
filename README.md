@@ -68,6 +68,25 @@ Fonte: [Autoria Própria]()
 &nbsp;&nbsp;&nbsp;&nbsp;Overall, we managed to be faithful to the high-fidelity wireframe when developing the front end. Some functionalities were added, such as the possibility of changing the mission status to "Doing" and "Done" and inserting a new mission which is automatically directed to the "To Do" column. 
 
 # 5. Back-end and Database
+
+&nbsp;&nbsp;&nbsp;&nbsp;The backend is the part of the software system that operates "behind the scenes" to provide functionality and support for the application's operations. It is responsible for processing, storing and managing data, as well as the application's business logic. The database, on the other hand, is an organized system for efficiently storing and retrieving information. It is designed to handle large volumes of data in a structured and secure way.
+
+<figure>
+  <img src="./assets/db.png" alt="Front-end">
+  <figcaption>Database</figcaption>
+</figure>
+
+Fonte: [Autoria Própria]()
+
+&nbsp;&nbsp;&nbsp;&nbsp;On backend, the CRUD routes were made with RESTfull standardization, using the methods:
+
+1. GET 
+2. POST
+3. PUT
+4. DELETE
+
+&nbsp;&nbsp;&nbsp;&nbsp;In the database, we store player and mission data. 
+
 # 6. Deploy at AWS
 # 7. Integration
 
