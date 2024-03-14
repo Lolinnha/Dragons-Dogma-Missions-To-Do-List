@@ -44,8 +44,29 @@ Fonte: [Autoria Própria]()
 
 # 3. Wireframe
 
+&nbsp;&nbsp;&nbsp;&nbsp;A wireframe is a basic, schematic visual representation of a user interface, often used in the design of websites, mobile applications or other digital products. The wireframe is a kind of sketch that shows the structure of the page or screen, without including graphic details, colors or final content. In this case, we used the high-fidelity wireframe, which presents a more detailed and refined version of a traditional wireframe, with more detailed visual elements, typography and text style, functional details and more precise feedback. 
+
+<figure>
+  <img src="./assets/wireframe.png" alt="high-fidelity wireframe">
+  <figcaption>High-fidelity Wireframe</figcaption>
+</figure>
+
+Fonte: [Autoria Própria]()
+
+&nbsp;&nbsp;&nbsp;&nbsp;Here we've created a to do list to add the quests of Dragon's Dogma players. We thought of the interface with the coloring and ornamentation pattern according to the brand manual and design systems of the actual game. 
 
 # 4. Front-end 
+&nbsp;&nbsp;&nbsp;&nbsp;Frontend refers to the part of a software system that users interact with directly, i.e. the interface with which they interact. In the context of software development for the web, the frontend is the part of the application or website that is accessible and visible to end users via a web browser or mobile application.
+
+<figure>
+  <img src="./assets/frontend.png" alt="Front-end">
+  <figcaption>Front-end</figcaption>
+</figure>
+
+Fonte: [Autoria Própria]()
+
+&nbsp;&nbsp;&nbsp;&nbsp;Overall, we managed to be faithful to the high-fidelity wireframe when developing the front end. Some functionalities were added, such as the possibility of changing the mission status to "Doing" and "Done" and inserting a new mission which is automatically directed to the "To Do" column. 
+
 # 5. Back-end and Database
 # 6. Deploy at AWS
 # 7. Integration
