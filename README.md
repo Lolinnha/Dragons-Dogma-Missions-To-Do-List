@@ -120,7 +120,7 @@ Source: Own authorship
 
 &nbsp;&nbsp;&nbsp;&nbsp;After setting up apachi, we installed and configured Git, Node.js and the Dragon's Dogma GitHub dependencies (this repository). 
 
-&nbsp;&nbsp;&nbsp;&nbsp;In the backend, we added the .env file to access and configure our PostgreSQL database. I ran the application on port 3000, but I also configured apaci so that every request I received in /api would be redirected to port 3000.
+&nbsp;&nbsp;&nbsp;&nbsp;In the backend, we added the .env file to access and configure our PostgreSQL database. I ran the application on port 3000, but I also configured apachi so that every request I received in /api would be redirected to port 3000.
 
 &nbsp;&nbsp;&nbsp;&nbsp;On the frontend, I did the build to generate the index.html and bundle.js. I copied the files to the /var/www/html folder so they would be executed in the application. 
 
